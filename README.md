@@ -11,4 +11,4 @@ Playlist - https://www.youtube.com/playlist?list=PL3wWgM539fkSMZvKjxQ37qqdjiii0Y
 
 Episode 1 - https://www.youtube.com/watch?v=UfSa8Ujnd1k
 
-Episode 2 - COMING SOON
+Episode 2 - https://www.youtube.com/watch?v=Q5nSnAtKlO4
