@@ -1,0 +1,76 @@
+body {
+    background-color: #161616;
+}
+.brand-text {
+    margin-left: 1%;
+    color: white;
+    font-family: 'Open Sans', sans-serif;
+}
+.post-div {
+    margin-top: 50px;
+    margin-left: 1%;
+    margin-right: 1%;
+}
+.post {
+    background-color: #1a1a1a;
+    border-radius: 10px;
+    padding: 2em;
+    margin-bottom: 10px;
+}
+.post-title {
+    color: white;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 20px;
+}
+.post-body-div {
+    margin-top: 10px;
+}
+.post-body {
+    color: white;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 15px;
+}
+.post-body a {
+    color: wite;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 15px;
+    text-decoration: underline;
+}
+
+.post-link {
+    color: red;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 15px;
+    text-decoration: underline;
+}
+
+.blog-image {
+    width: 15%;
+    height: auto;
+    border-radius: 10px;
+    box-shadow: 0 0 15px rgba(0,0,0,0.5);
+}
+
+.theme-btn {
+    position: absolute;
+    right: 1%;
+    top: 1%;
+    font-size: 30px;
+    color: white;
+    cursor: pointer;
+}
+
+.theme-btn:hover {
+    color: red;
+}
+
+/* change scrollbar colors */
+::-webkit-scrollbar {
+    width: 10px;
+    background-color: #1a1a1a;
+}
+
+::-webkit-scrollbar-thumb {
+    background-color: red;
+    border-radius: 10px;
+}
